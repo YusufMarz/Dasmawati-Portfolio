@@ -1,0 +1,35 @@
+export const awards = {
+    Gold: [
+      { title: "Gold Medal Award (MTE 2019)", desc: "GiZiDent", place: "PWTC, Kuala Lumpur", img: "/public/medal/gold.png" },
+      { title: "Gold Medal Award (ITEX 2018)", desc: "G-HybriDFIL Flow", place: "KLCC, Kuala Lumpur", img: "/public/medal/gold.png" },
+      { title: "Gold Medal Award (RISE 2015)", desc: "G-ACERIN", place: "UiTM, Shah Alam", img: "/public/medal/gold.png" },
+      { title: "Gold Medal Award (RISE 2015)", desc: "3D-OPACC", place: "UiTM, Shah Alam", img: "/public/medal/gold.png" },
+      { title: "Gold Medal Award (PECIPTA 2013)", desc: "D-HybriDFil", place: "KLCC, Kuala Lumpur", img: "/public/medal/gold.png" },
+      { title: "Gold Medal Award (MTE 2010)", desc: "KeLFiL", place: "PWTC, Kuala Lumpur", img: "/public/medal/gold.png" },
+      { title: "Gold Medal Award (G-HybriDFIL Flow 2018)", desc: "G-HybriDFIL", place: "KLCC, Kuala Lumpur", img: "/public/medal/gold.png" },
+    ],
+    Silver: [
+      { title: "Silver Medal Award (PECIPTA 2019)", desc: "A Novel Computer Aided Reconstruction in Hybrid Cranioplasty", place: "UiTHM, Batu Pahat, Johor", img: "/public/medal/silver.png" },
+      { title: "Silver Medal Award (ITEX 2019)", desc: "P.S.I. Hybrid Cranioplasty", place: "KLCC, Kuala Lumpur", img: "/public/medal/silver.png" },
+      { title: "Silver Medal Award (ITEX 2018)", desc: "3D-CPACC", place: "KLCC, Kuala Lumpur", img: "/public/medal/silver.png" },
+      { title: "Silver Medal Award (ITEX 2013)", desc: "G-HybriDFIL", place: "KLCC, Kuala Lumpur", img: "/public/medal/silver.png" },
+      { title: "Silver Medal Award (MyDental Bib, PECIPTA 2009)", desc: "International Exposition", place: "KLCC, Kuala Lumpur", img: "/public/medal/silver.png" },
+    ],
+    Bronze: [
+      { title: "Bronze Medal Award (KeLFiL, PECIPTA 2009)", desc: "International Exposition", place: "KLCC, Kuala Lumpur", img: "/public/medal/bronze.png" },
+    ],
+    Other: [
+      { title: "Outstanding Women in Biomaterials", desc: "Venus International Women Awards, VIWA 2018", place: "Chennai, India", img: "/public/medal/other.png" },
+      { title: "Highest Number of Publications as Corresponding Author", desc: "School of Dental Sciences, Malaysia", place: "2017", img: "/public/medal/other.png" },
+      { title: "Excellent Service Award 2015", desc: "USM", place: "Malaysia", img: "/public/medal/other.png" },
+      { title: "Best Presenter Award 2015", desc: "ICAME 2015, Patra Jasa Bali Resort and Villas, Indonesia", place: "", img: "/public/medal/other.png" },
+      { title: "Sanggar Sanjung Award 2014", desc: "Publication Category, Universiti Sains Malaysia", place: "", img: "/public/medal/other.png" },
+      { title: "Excellent Service Award 2013", desc: "USM", place: "Malaysia", img: "/public/medal/other.png" },
+      { title: "Diplome Invention Geneva Award 2011", desc: "Salon International Des Invention", place: "Geneva", img: "/public/medal/other.png" },
+      { title: "Sanggar Sanjung Award 2010", desc: "Quality Category, USM", place: "", img: "/public/medal/other.png" },
+      { title: "Hadiah Anugerah Kecemerlangan Maal Hijrah 1431H", desc: "Universiti Sains Malaysia", place: "", img: "/public/medal/other.png" },
+      { title: "Sanjungan Award 2009", desc: "Publication Category, USM", place: "", img: "/public/medal/other.png" },
+      { title: "Young Scientists of Malaysia’s Representative for 59th Meeting of Nobel Laureate Prize Winners", desc: "Lindau, Germany", place: "28th June-3rd July 2009", img: "/public/medal/other.png" },
+      { title: "1st Place for Senior Travel Award IADR Malaysian Section", desc: "8th Scientific Meeting of IADR Malaysian Section", place: "UiTM Shah Alam, 10 Jan 2009", img: "/public/medal/other.png" },
+    ],
+  };
