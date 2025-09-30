@@ -158,13 +158,13 @@ export default function Home() {
 
               <div className="flex gap-4 mt-4 md:mt-0 mb-8">
           <a href="https://scholar.google.com.my/citations?user=HYjax4cAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-            <img src="/public/google scholar.png" alt="Google Scholar" className="h-12 w-12" />
+            <img src="/google scholar.png" alt="Google Scholar" className="h-12 w-12" />
           </a>
           <a href="https://www.researchgate.net/profile/Dasmawati-Mohamad" target="_blank" rel="noopener noreferrer">
-            <img src="/public/research gate.png" alt="ResearchGate" className="h-12 w-12" />
+            <img src="/research gate.png" alt="ResearchGate" className="h-12 w-12" />
           </a>
           <a href="https://www.scopus.com/authid/detail.uri?authorId=35484971000" target="_blank" rel="noopener noreferrer">
-            <img src="/public/scopus preview.png" alt="Scopus" className="h-12 w-30 object-contain bg-white p-1 rounded" />
+            <img src="/scopus preview.png" alt="Scopus" className="h-12 w-30 object-contain bg-white p-1 rounded" />
           </a>
         </div>
 
@@ -504,21 +504,21 @@ export default function Home() {
             "
           >
              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4 items-center justify-items-center">
-              <img src="/public/usmLogo.png" alt="Usm Logo " className="h-[60%] object-contain"/>
-              <img src="/public/apexLogo.png" alt="Apex Logo " className="h-[50%] object-contain"/>
-              <img src="/public/usmExpert.png" alt="Usm Expert Logo " className="h-[60%] object-contain"/>
-              <img src="/public/mdem.jpg" alt="MDEM Logo " className="h-[70%] object-contain"/>
-              <img src="/public/mbsLogo.jpg" alt="Mbs Logo " className="h-[60%] object-contain"/>
-              <img src="/public/IADR.png" alt="IADR Logo " className="h-[60%] object-contain"/>
-              <img src="/public/perintis.jpg" alt="PERINTIS Logo " className="h-[60%] object-contain"/>
-              <img src="/public/YSM.png" alt="YSM Logo " className="h-[100%] object-contain"/>
-              <img src="/public/ITEX.png" alt="ITEX Logo " className="h-[70%] object-contain"/>
-              <img src="/public/IChemE.png" alt="IChemE Logo " className="h-[70%] object-contain"/>
-              <img src="/public/LNM.png" alt="LNM Logo " className="h-[80%] object-contain"/>
-              <img src="/public/UOB.png" alt="UOB Logo " className="h-[70%] object-contain"/>
-              <img src="/public/Manchester.jpg" alt="Manchester Logo " className="h-[70%] object-contain"/>
-              <img src="/public/ADM.png" alt="ADM Logo " className="h-[80%] object-contain"/>
-              <img src="/public/PKW.jpg" alt="PKW Logo " className="h-[70%] object-contain"/>
+              <img src="/usmLogo.png" alt="Usm Logo " className="h-[60%] object-contain"/>
+              <img src="/apexLogo.png" alt="Apex Logo " className="h-[50%] object-contain"/>
+              <img src="/usmExpert.png" alt="Usm Expert Logo " className="h-[60%] object-contain"/>
+              <img src="/mdem.jpg" alt="MDEM Logo " className="h-[70%] object-contain"/>
+              <img src="/mbsLogo.jpg" alt="Mbs Logo " className="h-[60%] object-contain"/>
+              <img src="/IADR.png" alt="IADR Logo " className="h-[60%] object-contain"/>
+              <img src="/perintis.jpg" alt="PERINTIS Logo " className="h-[60%] object-contain"/>
+              <img src="/YSM.png" alt="YSM Logo " className="h-[100%] object-contain"/>
+              <img src="/ITEX.png" alt="ITEX Logo " className="h-[70%] object-contain"/>
+              <img src="/IChemE.png" alt="IChemE Logo " className="h-[70%] object-contain"/>
+              <img src="/LNM.png" alt="LNM Logo " className="h-[80%] object-contain"/>
+              <img src="/UOB.png" alt="UOB Logo " className="h-[70%] object-contain"/>
+              <img src="/Manchester.jpg" alt="Manchester Logo " className="h-[70%] object-contain"/>
+              <img src="/ADM.png" alt="ADM Logo " className="h-[80%] object-contain"/>
+              <img src="/PKW.jpg" alt="PKW Logo " className="h-[70%] object-contain"/>
               
             </div>
 

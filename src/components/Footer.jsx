@@ -25,13 +25,13 @@ export default function Footer() {
         {/* Right Section - Research Profiles */}
         <div className="flex gap-4 mt-4 md:mt-0">
           <a href="https://scholar.google.com.my/citations?user=HYjax4cAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-            <img src="/public/google scholar.png" alt="Google Scholar" className="h-12 w-12" />
+            <img src="/google scholar.png" alt="Google Scholar" className="h-12 w-12" />
           </a>
           <a href="https://www.researchgate.net/profile/Dasmawati-Mohamad" target="_blank" rel="noopener noreferrer">
-            <img src="/public/research gate.png" alt="ResearchGate" className="h-12 w-12" />
+            <img src="/research gate.png" alt="ResearchGate" className="h-12 w-12" />
           </a>
           <a href="https://www.scopus.com/authid/detail.uri?authorId=35484971000" target="_blank" rel="noopener noreferrer">
-            <img src="/public/scopus preview.png" alt="Scopus" className="h-12 w-30 object-contain bg-white p-1 rounded" />
+            <img src="/scopus preview.png" alt="Scopus" className="h-12 w-30 object-contain bg-white p-1 rounded" />
           </a>
         </div>
       </div>
